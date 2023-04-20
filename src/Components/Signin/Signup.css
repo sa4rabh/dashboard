@@ -1,0 +1,54 @@
+.left-side {
+    position: absolute;
+    width: 588px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+
+    background: #000000;
+}
+.board{
+    position: absolute;
+    width: 246px;
+    height: 88px;
+    left: 171px;
+    top: 464px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 88px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+.right-side{
+    position: absolute;
+width: 852px;
+height: 1024px;
+left: 588px;
+top: 0px;
+
+/* Background */
+
+background: #F5F5F5;
+}
+.sign-in{
+    position: absolute;
+width: 131px;
+height: 44px;
+left: 832px;
+top: 260px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #000000;
+}

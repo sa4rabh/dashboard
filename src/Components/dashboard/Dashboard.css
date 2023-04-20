@@ -1,0 +1,31 @@
+.header {
+    position: absolute;
+    width: 1000px;
+    height: 10px;
+    left: 380px;
+    top: 40px;
+}
+
+.right-down {
+    position: absolute;
+    width: 1000px;
+    height: 80px;
+    left: 380px;
+    top: 90px;
+}
+
+.activities {
+    position: absolute;
+    width: 1000px;
+    height: 100px;
+    left: 380px;
+    top: 220px;
+}
+
+.down {
+    position: absolute;
+    width: 1000px;
+    height: auto;
+    left: 380px;
+    top: 500px;
+}
